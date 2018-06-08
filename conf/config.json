@@ -1,0 +1,7 @@
+{
+  "url" : "https://manage.plivo.com/accounts/login/",
+  "username" : "plivoiview@gmail.com",
+  "password" : "Plivo@123",
+  "couponcode" : "COUPONCODE",
+  "errorMessage" :"This coupon code is invalid."
+}

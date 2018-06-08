@@ -1,0 +1,12 @@
+1528486817697	geckodriver	INFO	geckodriver 0.20.0
+1528486817709	geckodriver	INFO	Listening on 127.0.0.1:52967
+1528486817803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/x4/1nsqhlx104x579qb1vh2qqjm0000gn/T/rust_mozprofile.LezRb5n64JBe"
+2018-06-09 01:10:19.317 plugin-container[1550:116548] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528486819815	Marionette	INFO	Listening on port 52972
+2018-06-09 01:10:20.201 plugin-container[1551:116627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1528486820235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528486837777	geckodriver::marionette	ERROR	Failed to stop browser process
