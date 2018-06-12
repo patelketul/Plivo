@@ -70,4 +70,4 @@ if __name__ == '__main__':
     for test_name in test_names:
         suite.addTest(RedeemCouponTest(test_name,args[1]))
 
-    result = unittest.TextTestRunner().run(suite)
+    result = unittest.TextTestRunner(verbosity=2).run(suite)
